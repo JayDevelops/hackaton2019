@@ -1,1 +1,1 @@
-hello = "hello world"
+import background, fps
